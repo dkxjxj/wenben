@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../../../../../../../ruanjian/qtapp/MyNotepad/img/about.png</file>
+        <file>../../../../../../../../ruanjian/qtapp/MyNotepad/img/copy.png</file>
+        <file>../../../../../../../../ruanjian/qtapp/MyNotepad/img/cut.png</file>
+        <file>../../../../../../../../ruanjian/qtapp/MyNotepad/img/exit.png</file>
+        <file>../../../../../../../../ruanjian/qtapp/MyNotepad/img/find.png</file>
+        <file>../../../../../../../../ruanjian/qtapp/MyNotepad/img/font.png</file>
+        <file>../../../../../../../../ruanjian/qtapp/MyNotepad/img/go-top.png</file>
+        <file>../../../../../../../../ruanjian/qtapp/MyNotepad/img/line_number.png</file>
+        <file>../../../../../../../../ruanjian/qtapp/MyNotepad/img/logo.png</file>
+        <file>../../../../../../../../ruanjian/qtapp/MyNotepad/img/new.png</file>
+        <file>../../../../../../../../ruanjian/qtapp/MyNotepad/img/OpenFile.png</file>
+        <file>../../../../../../../../ruanjian/qtapp/MyNotepad/img/paste.png</file>
+        <file>../../../../../../../../ruanjian/qtapp/MyNotepad/img/redo.png</file>
+        <file>../../../../../../../../ruanjian/qtapp/MyNotepad/img/replace.png</file>
+        <file>../../../../../../../../ruanjian/qtapp/MyNotepad/img/save.png</file>
+        <file>../../../../../../../../ruanjian/qtapp/MyNotepad/img/save-as.png</file>
+        <file>../../../../../../../../ruanjian/qtapp/MyNotepad/img/select-all.png</file>
+        <file>../../../../../../../../ruanjian/qtapp/MyNotepad/img/state.png</file>
+        <file>../../../../../../../../ruanjian/qtapp/MyNotepad/img/tool.png</file>
+        <file>../../../../../../../../ruanjian/qtapp/MyNotepad/img/undo.png</file>
+        <file>../../../../../../../../ruanjian/qtapp/MyNotepad/img/wrap.png</file>
+        <file>../../../../../../../../ruanjian/qtapp/MyNotepad/img/backgroundcolor.png</file>
+        <file>../../../../../../../../ruanjian/qtapp/MyNotepad/img/editor-text-background-color.png</file>
+        <file>../../../../../../../../ruanjian/qtapp/MyNotepad/img/fontcolor.png</file>
+        <file>../../../../../../../../ruanjian/qtapp/MyNotepad/img/show_line.png</file>
+    </qresource>
+</RCC>
